@@ -1,7 +1,7 @@
 # wordcount
 This is the simple django introduction project. how it works and simple features of django in backend. 
 
-Quick Start
+# Quick Start
 To get this project up and running locally on your computer:
 
 1. Set up the Python development environment. We recommend using a Python virtual environment.
