@@ -1,5 +1,5 @@
 # wordcount
-This is the simple django introduction project. how it works and simple features of django in backend. 
+This is the simple Django introduction project. how it works and the simple features of Django in the backend.
 
 # Quick Start
 To get this project up and running locally on your computer:
